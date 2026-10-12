@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi, I'm Nimra Riqat 🇵🇰 | Future GKS Scholar 🇰🇷
 
-<!--
-**nimrariqat62-pixel/nimrariqat62-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🎯 Goal: Fully Funded Masters in CS in Seoul, South Korea (GKS-G 2030)
+> 📍 Current: Pre-BSCS | Learning Korean (TOPIK Prep)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 💻 BSCS Student passionate about C++ and Problem Solving
+- 🌱 Currently mastering DSA - Arrays 18/25 Done
+- 🌏 Long-Term Vision: Masters at SNU / KAIST / Yonsei
+- 📖 Philosophy: Learn -> Implement -> Test -> Analyze -> Improve
+
+### 🛠️ Tech Stack
+C++ | OOP | DSA | File Handling | Git & GitHub
+
+### 📌 My Projects
+1.  **Library Management System** - OOP + File Handling
+2.  **Student Result System** - My first C++ OOP Project  
+3.  **DSA in C++** - Daily practice with execution proofs
+
+### 🎯 My Goal
+Building my skills one program at a time - From Okara, Pakistan to Seoul, South Korea. InshaAllah!
+
+---
+
