@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 - 💻 BSCS Student passionate about C++ and Problem Solving
-- 🌱 Currently mastering DSA - Arrays 18/25 Done
+- 🌱 Currently mastering DSA - Arrays 25/25 Done. next strings
 - 🌏 Long-Term Vision: Masters at SNU / KAIST / Yonsei
 - 📖 Philosophy: Learn -> Implement -> Test -> Analyze -> Improve
 
@@ -23,4 +23,10 @@ C++ | OOP | DSA | File Handling | Git & GitHub
 Building my skills one program at a time - From Okara, Pakistan to Seoul, South Korea. InshaAllah!
 
 ---
+
+### 📊 GitHub Stats
+
+![Nimra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimrariqat62-pixel&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimrariqat62-pixel&layout=compact&theme=tokyonight)
 
