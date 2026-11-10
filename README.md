@@ -23,7 +23,6 @@ C++ | OOP | DSA | File Handling | Git & GitHub
 Building my skills one program at a time - From Okara, Pakistan to Seoul, South Korea. InshaAllah!
 
 ---
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nimrariqat62-pixel&show_icons=true&include_all_commits=true&theme=tokyonight)
