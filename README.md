@@ -23,11 +23,7 @@ C++ | OOP | DSA | File Handling | Git & GitHub
 Building my skills one program at a time - From Okara, Pakistan to Seoul, South Korea. InshaAllah!
 
 ---
-### 📊 GitHub Stats & Tech
 
-[![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/nimrariqat62)
-[![Git & GitHub](https://img.shields.io/badge/Tools-Git_%26_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/nimrariqat62)
-[![DSA & OOP](https://img.shields.io/badge/Focus-DSA_%26_OOP-success?style=for-the-badge)](https://github.com/nimrariqat62)
 
 
 
