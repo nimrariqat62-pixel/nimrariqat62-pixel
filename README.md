@@ -23,10 +23,12 @@ C++ | OOP | DSA | File Handling | Git & GitHub
 Building my skills one program at a time - From Okara, Pakistan to Seoul, South Korea. InshaAllah!
 
 ---
-## 📊 GitHub Stats
-[![Nimra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimrariqat62&show_icons=true&theme=radical)](https://github.com/nimrariqat62)
+### 📊 GitHub Stats & Tech
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimrariqat62&layout=compact&theme=radical)](https://github.com/nimrariqat62)
+[![GitHub Streak](https://img.shields.io/badge/GitHub-Streak-blue?style=for-the-badge&logo=github)](https://github.com/nimrariqat62)
+[![Top Language C++](https://img.shields.io/badge/Primary_Lang-C++-00599C?style=for-the-badge&logo=c%2B%2B)](https://github.com/nimrariqat62)
+[![Repositories](https://img.shields.io/badge/Repositories-Active-success?style=for-the-badge&logo=git)](https://github.com/nimrariqat62?tab=repositories)
+
 
 
 
