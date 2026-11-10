@@ -25,9 +25,10 @@ Building my skills one program at a time - From Okara, Pakistan to Seoul, South 
 ---
 ### 📊 GitHub Stats & Tech
 
-[![GitHub Streak](https://img.shields.io/badge/GitHub-Streak-blue?style=for-the-badge&logo=github)](https://github.com/nimrariqat62)
-[![Top Language C++](https://img.shields.io/badge/Primary_Lang-C++-00599C?style=for-the-badge&logo=c%2B%2B)](https://github.com/nimrariqat62)
-[![Repositories](https://img.shields.io/badge/Repositories-Active-success?style=for-the-badge&logo=git)](https://github.com/nimrariqat62?tab=repositories)
+[![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/nimrariqat62)
+[![Git & GitHub](https://img.shields.io/badge/Tools-Git_%26_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/nimrariqat62)
+[![DSA & OOP](https://img.shields.io/badge/Focus-DSA_%26_OOP-success?style=for-the-badge)](https://github.com/nimrariqat62)
+
 
 
 
