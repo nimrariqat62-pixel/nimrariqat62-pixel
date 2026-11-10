@@ -24,6 +24,10 @@ Building my skills one program at a time - From Okara, Pakistan to Seoul, South 
 
 ---
 ## 📊 GitHub Stats
+[![Nimra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimrariqat62&show_icons=true&theme=radical)](https://github.com/nimrariqat62)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nimrariqat62-pixel&show_icons=true&include_all_commits=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimrariqat62&layout=compact&theme=radical)](https://github.com/nimrariqat62)
+
+
+
 
